@@ -1,0 +1,6 @@
+id,data_insercao,cultura,area_m2,produto,dose_ml_metro,num_ruas,comp_rua_m,total_litros
+1,23/03/2026 16:09,Soja,30000.0,Fungicida,300.0,5,250.0,375000.0
+2,23/03/2026 16:10,Café,3562.5,Inseticida,400.0,3,180.0,216000.0
+3,23/03/2026 16:10,Soja,19200.0,Adubo,250.0,6,200.0,300000.0
+4,23/03/2026 16:11,Café,2500.0,Fertilizante,500.0,2,200.0,200000.0
+5,23/03/2026 16:11,Café,10000.0,Fertilizante,500.0,4,100.0,200000.0
